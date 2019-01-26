@@ -66,4 +66,4 @@ packages:
 #
 nix:
   enable: true
-  packages: [libinput]
+  packages: [libinput pkgconfig]
